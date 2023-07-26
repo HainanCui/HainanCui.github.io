@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr.Hainan Cui's home on the web
+Hainan Cui is an Associate Professor at Institute of Automation, Chinese Academy of Sciences. His current research interests include 3D Vision etc.
