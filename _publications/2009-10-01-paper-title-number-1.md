@@ -1,6 +1,6 @@
 ---
 title: "MMA: Multi-Camera Based Global Motion Averaging"
-excerpt: "To fully perceive the surrounding environment, we propose tailor-made multi-camera based motion averaging system that calibrates and fuses the rigged constraints automatically. [**Read More**]<br/><img src='/images/MMA.png' width='500'>"
+excerpt: "To fully perceive the surrounding environment, we propose tailor-made multi-camera based motion averaging system that calibrates and fuses the rigged constraints automatically."
 collection: publications
 date: 2022-6-28
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/19927/19686'
