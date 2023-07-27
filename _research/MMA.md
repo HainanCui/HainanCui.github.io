@@ -19,7 +19,5 @@ In order to fully perceive the surrounding environment, many intelligent robots 
 ## Reference
 
 <p align = "justify">
-
 **Hainan Cui**, and Shuhan Shen. "MMA: Multi-Camera Based Global Motion Averaging." AAAI, Vol. 36. No. 1, 2022.
-
 </p>
