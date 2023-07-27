@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "MMA: Multi-Camera Based Global Motion Averaging"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<div align='center'>
+  <img src="/images/MMA.png" width="500">  
+</div>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+
+In order to fully perceive the surrounding environment, many intelligent robots and self-driving cars are equipped with a multi-camera system. Based on this system, the structure-from-motion I(SfM) technology is used to realize scene reconstruction, but the fixed relative poses between cameras in the multi-camera system are usually not considered. This paper presents a tailor-made multi-camera based motion averaging system, where the fixed relative poses are utilized to improve the accuracy and robustness of SfM. Our approach starts by dividing the images into reference images and non-reference images, and edges in view-graph are divided into four categories accordingly. Then, a multi-camera based rotating averaging problem is formulated and solved in two stages, where an iterative re-weighted least squares scheme is used to deal with outliers. Finally, a multi-camera based translation averaging problem is formulated and a l1-norm based optimization scheme is proposed to compute the relative translations of multi-camera system and reference camera positions simultaneously. Experiments demonstrate that our algorithm achieves superior accuracy and robustness on various data sets compared to the state-of-the-art methods.
+
+## Reference
+
+**Hainan Cui\***, and Shuhan Shen. "MMA: Multi-Camera Based Global Motion Averaging." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 36. No. 1. 2022.
