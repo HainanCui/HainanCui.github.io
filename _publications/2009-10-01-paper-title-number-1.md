@@ -1,5 +1,6 @@
 ---
 title: "MMA: Multi-Camera Based Global Motion Averaging"
+date: 2022-11
 excerpt: "To fully perceive the surrounding environment, we propose tailor-made multi-camera based motion averaging system that calibrates and fuses the rigged constraints automatically. [**Read More**]<br/><img src='/images/MMA.png' width='500'>"
 collection: publications
 ---
@@ -14,4 +15,4 @@ In order to fully perceive the surrounding environment, many intelligent robots 
 
 ## Reference
 
-**Hainan Cui\***, and Shuhan Shen. "MMA: Multi-Camera Based Global Motion Averaging." Proceedings of the AAAI Conference on Artificial Intelligence. AAAI, Online, Vol. 36. No. 1, 11.6-11.9, 2022.
+**Hainan Cui\***, and Shuhan Shen. "MMA: Multi-Camera Based Global Motion Averaging." Proceedings of the AAAI Conference on Artificial Intelligence. AAAI, Online, Vol. 36. No. 1, 2022.
